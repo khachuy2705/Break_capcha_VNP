@@ -1,0 +1,2 @@
+python Break_capcha_VNP_v1.py
+pause
